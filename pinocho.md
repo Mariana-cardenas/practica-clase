@@ -1,0 +1,38 @@
+# ***Pinocho***
+
+
+
+Érase una vez un anciano carpintero llamado Gepeto que era muy feliz haciendo juguetes de madera para los niños de su pueblo.
+
+
+
+Un día, hizo una marioneta de una madera de pino muy especial y decidió llamarla Pinocho. En la noche, un hada azul llegó al taller del anciano carpintero:
+
+
+
+—Buen Gepeto —dijo mientras el anciano dormía—, has hecho a los demás tan felices, que mereces que tu deseo de ser padre se haga realidad. Sonriendo, el hada azul tocó la marioneta con su varita mágica:
+
+
+
+—¡Despierta, pequeña marioneta hecha de pino… despierta! ¡El regalo de la vida es tuyo!
+
+
+
+Y en un abrir y cerrar de ojos, el hada azul dio vida a Pinocho.
+
+
+
+—Pinocho, si eres valiente, sincero y desinteresado, algún día serás un niño de verdad —dijo el hada azul—. Luego se volvió hacia un grillo llamado Pepe Grillo, que vivía en la alacena de Gepeto.
+
+
+
+—Pepe Grillo — dijo el hada azul—, debes ayudar a Pinocho. Serás su conciencia y guardián del conocimiento del bien y del mal.
+
+
+
+Al día siguiente, Gepeto envió con orgullo a su pequeño niño de madera a la escuela, pero como era tan pobre, tuvo que vender su abrigo para comprar los libros escolares:
+
+
+
+—Pinocho, Pepe Grillo te mostrará el camino —dijo Gepeto—. Por favor, no te distraigas y llega a la escuela a tiempo.
+
