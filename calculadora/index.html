@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora Moderna</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="calculadora">
+    <input type="text" id="pantalla" placeholder="0" disabled>
+    <div class="botones">
+      <!-- Fila 1 -->
+      <button onclick="limpiar()" class="btn-operador">C</button>
+      <button onclick="borrarUno()" class="btn-operador">←</button>
+      <button onclick="agregar('%')" class="btn-operador">%</button>
+      <button onclick="agregar('/')" class="btn-operador">÷</button>
+
+      <!-- Fila 2 -->
+      <button onclick="agregar('7')">7</button>
+      <button onclick="agregar('8')">8</button>
+      <button onclick="agregar('9')">9</button>
+      <button onclick="agregar('*')" class="btn-operador">×</button>
+
+      <!-- Fila 3 -->
+      <button onclick="agregar('4')">4</button>
+      <button onclick="agregar('5')">5</button>
+      <button onclick="agregar('6')">6</button>
+      <button onclick="agregar('-')" class="btn-operador">-</button>
+
+      <!-- Fila 4 -->
+      <button onclick="agregar('1')">1</button>
+      <button onclick="agregar('2')">2</button>
+      <button onclick="agregar('3')">3</button>
+      <button onclick="agregar('+')" class="btn-operador">+</button>
+
+      <!-- Fila 5 -->
+      <button onclick="agregar('00')">00</button>
+      <button onclick="agregar('0')">0</button>
+      <button onclick="agregar('.')">.</button>
+      <button onclick="calcular()" class="btn-igual">=</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
